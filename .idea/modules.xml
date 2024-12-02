@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC120_Midterm.iml" filepath="$PROJECT_DIR$/CSC120_Midterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/Final Project.iml" filepath="$PROJECT_DIR$/Final Project/Final Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidtermProject/MidtermProject.iml" filepath="$PROJECT_DIR$/MidtermProject/MidtermProject.iml" />
+    </modules>
+  </component>
+</project>
